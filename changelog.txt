@@ -1,2 +1,6 @@
+[B]Version 1.0.1[/B]
+- Updated to the new neverwise library.
+- Small improvements.
+
 [B]Version 1.0.0[/B]
 - Initial version.
